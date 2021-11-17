@@ -40,13 +40,6 @@ _Instalación de XAMPP:_
 
 * [Manual de instalación completo](http://bibing.us.es/proyectos/abreproy/12197/fichero/Manual+de+instalacion.pdf)
 
-### Analice las pruebas end-to-end 🔩
-
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
 
 ### Y las pruebas de estilo de codificación ⌨️
 
