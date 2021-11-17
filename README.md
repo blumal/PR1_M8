@@ -65,6 +65,7 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 * [XAMPP](https://www.apachefriends.org/es/index.html) - Servidor que soportará nuestro lenguaje PHP, y consultas BBDD.
 * [XAMPP(PhpMyAdmin)](https://www.phpmyadmin.net/docs/)- Usado para generar, testear, visualizar la BBDD.
 * [Hosting](https://www.000webhost.com/?__cf_chl_jschl_tk__=_e8b7QHZCLUBjphESPSnHpvTGZ5XTFDjPSJ7WKejWnI-1637165745-0-gaNycGzNByU)- Usado para poder subir nuestra web a internet y poder acceder desde cualquier dispositivo en cualquier momento.
+* [Github](https://github.com/)- Usado para gestionar el trabajo de cada desarrollador, controlar las tarear, control el tiempo de trabajo y gestionar el progreso del proyecto.
 
 ## Contribuyendo 🖇️
 
