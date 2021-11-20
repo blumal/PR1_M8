@@ -67,7 +67,7 @@ Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](ht
 
 ## Versionado 📌
 
-Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/tu/proyecto/tags).
+* [tags en este repositorio](https://github.com/blumal/PR1_M8/releases).
 
 ## Autores ✒️
 
