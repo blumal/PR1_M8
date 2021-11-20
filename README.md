@@ -38,7 +38,7 @@ _Posterior a la instalación de alguno de los softwares de edición de código e
 
 _Instalación de XAMPP:_
 
-* [Manual de instalación completo](http://bibing.us.es/proyectos/abreproy/12197/fichero/Manual+de+instalacion.pdf)
+* [Manual de instalación completo](https://www.ionos.es/digitalguide/servidores/herramientas/instala-tu-servidor-local-xampp-en-unos-pocos-pasos/)
 
 
 ### Y las pruebas de estilo de codificación ⌨️
