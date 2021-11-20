@@ -43,7 +43,9 @@ _Instalación de XAMPP:_
 
 ### Y las pruebas de estilo de codificación ⌨️
 
-_A partir de aquí continuamos con la implementación de la web en XAMPP, por lo que habrá que tener varios aspectos a tener en cuenta_
+_A partir de aquí continuamos con la implementación de la web en 000Webhost, por lo que habrá que tener varios aspectos a tener en cuenta._
+
+* [Recomendaciones a comprobar](https://www.hostinger.es/tutoriales/subir-sitio-web)
 
 ## Construido con 🛠️
 
