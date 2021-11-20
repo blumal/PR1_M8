@@ -43,12 +43,7 @@ _Instalación de XAMPP:_
 
 ### Y las pruebas de estilo de codificación ⌨️
 
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
-
+_A partir de aquí continuamos con la implementación de la web en XAMPP, por lo que habrá que tener varios aspectos a tener en cuenta_
 
 ## Construido con 🛠️
 
