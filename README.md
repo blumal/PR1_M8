@@ -43,9 +43,18 @@ _Instalación de XAMPP:_
 ### Instalación en Local🔧
 _Breve explicación de como desplegar el proyecto de manera local_
 
-* Posterior a haber cumplido los prerequisitos, de manera rápida y eficaz, en una carpeta en local, tras haber abierto un terminal en la misma carpeta deberás pegar la url del  proyecto actual 
-### Instalación en Hosting🔧
+* Posterior a haber cumplido los prerequisitos, de manera rápida y eficaz, en una carpeta en local, tras haber abierto un terminal en la misma carpeta deberás pegar la url del  proyecto actual [En el terminal](Git clone https://github.com/blumal/PR1_M8.git), posterior a ejecutar esto se generará toda la estructura de directorias del proyecto.
 
+* Por otra parte en caso de error, recuerda modificar los ficheros de conexión con la BBDD tal como lo tengas, si no obtendrás errores de conexión
+
+### Instalación en Hosting🔧
+_Breve explicación configuración en un hosting_
+
+* Este apartado es algom más complejo y largo, por eso debajo se dejan más puntos a tener en cuenta, para tener un despligue correcto del proyecto, uno de los puntos más importantes a la hora de subir el proyecto es comprobar si la estructura está tal cual la tenías en local, ya que las redirecciones fallarían, por otra parte necesitaríamos modificar los usuarios, base de datos, y contraseña de la conexión ya que por defecto el hosting te crea uno.
+
+* No elimines ningúna carpeta desconocida
+
+* Cualquier tipo de cambio, compruébalo tanto en la búsqueda normal como en la privada, esto solventa muchos errores (Esta opción es viable tanto en el desarrollo local como en hosting)
 
 ### Y las pruebas de estilo de codificación ⌨️
 
