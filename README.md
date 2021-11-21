@@ -40,6 +40,12 @@ _Instalación de XAMPP:_
 
 * [Manual de instalación completo](https://www.ionos.es/digitalguide/servidores/herramientas/instala-tu-servidor-local-xampp-en-unos-pocos-pasos/)
 
+### Instalación en Local🔧
+_Breve explicación de como desplegar el proyecto de manera local_
+
+* Posterior a haber cumplido los prerequisitos, de manera rápida y eficaz, en una carpeta en local, tras haber abierto un terminal en la misma carpeta deberás pegar la url del  proyecto actual 
+### Instalación en Hosting🔧
+
 
 ### Y las pruebas de estilo de codificación ⌨️
 
