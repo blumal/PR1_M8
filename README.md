@@ -47,6 +47,14 @@ _A partir de aquí continuamos con la implementación de la web en 000Webhost, p
 
 * [Recomendaciones a comprobar](https://www.hostinger.es/tutoriales/subir-sitio-web)
 
+
+_User of login_
+````
+user: blumal@fje.edu
+password: 1234
+````
+* [Web](https://reservacamareros.000webhostapp.com/view/login.php)
+
 ## Construido con 🛠️
 
 _Menciona las herramientas que utilizaste para crear tu proyecto_
